@@ -1,27 +1,23 @@
 ## whoami
 
-I'm a 21 years old infosec enthusiast, looking for a job into cybersecurity field, passionnated by penetration testing, programming, networking and video games.
+My name is Antoine, I'm a 21 years old infosec enthusiast, looking for a job into cybersecurity field, passionnated by penetration testing, programming, networking and video games.
 
-### Markdown
+## Professionnal experiences
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 01/01/2018 - 30/06/2018 | Helpdesk, Hardware Technician at Convergence-IT, Messancy, Belgium
 
-- Bulleted
-- List
+- Answer the phone and solve problems like emails, internet failures and RDP errors.
+- Prepare orders and repair customers' computers.
 
-1. Numbered
-2. List
+# 01/07/2018 - 11/06/2021 | Helpdesk, Hardware and software Technician at IECK SPRL, Neufchâteau, Belgium
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Answer the phone and solve all customers' problems related to their IT infrastructure.
+- Networking and setting up complex IT infrastructures in client's building with pfSense and Cisco devices(VPN, ACL, WAN, LAN,...)
+- Virtual infrastructurs management with ESXi. I was in charge of setting up Windows Active Directory, monitoring (LibreNMS), adblock (piHole),..
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -33,6 +29,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-## TEST
-### TEST
