@@ -42,6 +42,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Passionate
 - Autonomous
 
-### Contact
+## Points of interest
+
+- CTFs (Hack The Box, TryHackMe)
+- Boxing
+- Video games
+
+## Contact
 
 gimmeanesquik@protonmail.com
