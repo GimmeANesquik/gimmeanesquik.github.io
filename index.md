@@ -4,8 +4,6 @@ I'm a 21 years old infosec enthusiast, looking for a job into cybersecurity fiel
 
 ## Experiences
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 # Education
 
